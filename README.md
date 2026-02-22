@@ -49,5 +49,4 @@ The Python code detects gestures and communicates with Arduino via **Serial** to
 
 ---
 
-## License
-MIT License
+Made by Shakin Mahmud Tanvir
